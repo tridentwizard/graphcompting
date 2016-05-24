@@ -1,2 +1,2 @@
-# graphcompting
+# graphcomputing
 Graph Theory With Python 
